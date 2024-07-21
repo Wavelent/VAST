@@ -34,8 +34,8 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     #"https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_inpainting_fp16.safetensors"
     #"https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_fp16.safetensors"
-    "https://civitai.com/api/download/models/134361?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealismInpainting
-    "https://civitai.com/api/download/models/134065?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealism
+    #"https://civitai.com/api/download/models/134361?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealismInpainting
+    #"https://civitai.com/api/download/models/134065?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealism
 )
 
 LORA_MODELS=(
