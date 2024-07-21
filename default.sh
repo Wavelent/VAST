@@ -22,7 +22,7 @@ EXTENSIONS=(
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/Gourieff/sd-webui-reactor"
-    "https://github.com/zero01101/openOutpaint"
+    "https://github.com/zero01101/openOutpaint-webUI-extension"
     "https://github.com/BlafKing/sd-civitai-browser-plus"
     "https://github.com/zanllp/sd-webui-infinite-image-browsing"
 )
