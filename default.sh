@@ -24,7 +24,7 @@ EXTENSIONS=(
     #"https://github.com/Gourieff/sd-webui-reactor"
     "https://github.com/zero01101/openOutpaint"
     "https://github.com/BlafKing/sd-civitai-browser-plus"
-    "https://github.com/zanllp/sd-webui-infinite-image-browsing.git"
+    "https://github.com/zanllp/sd-webui-infinite-image-browsing"
 )
 
 CHECKPOINT_MODELS=(
