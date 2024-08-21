@@ -25,6 +25,8 @@ EXTENSIONS=(
     "https://github.com/zero01101/openOutpaint-webUI-extension"
     "https://github.com/BlafKing/sd-civitai-browser-plus"
     "https://github.com/zanllp/sd-webui-infinite-image-browsing"
+    "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper"
+    "https://github.com/fkunn1326/openpose-editor"
 )
 
 CHECKPOINT_MODELS=(
@@ -34,12 +36,14 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     #"https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_inpainting_fp16.safetensors"
     #"https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_fp16.safetensors"
-    #"https://civitai.com/api/download/models/134361?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealismInpainting
-    #"https://civitai.com/api/download/models/134065?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealism
+    "https://civitai.com/api/download/models/134361?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealismInpainting
+    "https://civitai.com/api/download/models/134065?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicRealism
 )
 
 LORA_MODELS=(
-    #"https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/62833?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/177674?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
