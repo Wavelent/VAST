@@ -26,7 +26,8 @@ EXTENSIONS=(
     "https://github.com/BlafKing/sd-civitai-browser-plus"
     "https://github.com/zanllp/sd-webui-infinite-image-browsing"
     "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper"
-    "https://github.com/fkunn1326/openpose-editor"
+    # "https://github.com/fkunn1326/openpose-editor"
+    "https://github.com/yankooliveira/sd-webui-photopea-embed"
 )
 
 CHECKPOINT_MODELS=(
