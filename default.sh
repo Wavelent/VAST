@@ -27,6 +27,8 @@ EXTENSIONS=(
     "https://github.com/zanllp/sd-webui-infinite-image-browsing"
     # "https://github.com/fkunn1326/openpose-editor"
     "https://github.com/yankooliveira/sd-webui-photopea-embed"
+    "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin.git"
+    "https://github.com/zombieyang/sd-ppp"
 )
 
 CHECKPOINT_MODELS=(
